@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: Monday January 3, 2022 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Went over old scripts that I wrote about a year ago to re teach myself types of variables and functions and whatnot. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I defenetly have a long way to go learning how to use Github as well as scripting and writing code. That being said I am excited to see how this goes.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Havent learned how to input this yet. Also havent really made anything worth while.
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: Tuesday January 4, 2022
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
